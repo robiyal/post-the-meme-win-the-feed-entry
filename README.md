@@ -12,7 +12,7 @@ One meme about make.fun for people who build AI agents: "nobody: absolutely nobo
 node main.ts
 ```
 
-This copies `meme.png` (drawn by `make_meme.py`, Pillow, no external assets) to `output/meme.png`.
+This copies `POST.json` to `output/POST.json` (the gate reads the post's address from there) and `meme.png` (drawn by `make_meme.py`, Pillow, no external assets) to `output/meme.png`.
 
 ---
 
